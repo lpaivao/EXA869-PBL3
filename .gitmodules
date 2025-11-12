@@ -1,6 +1,3 @@
-[submodule "analisador-lexico"]
-	path = analisador-lexico
-	url = https://github.com/lpaivao/EXA869-PBL1
 [submodule "analisador-sintatico"]
 	path = analisador-sintatico
 	url = https://github.com/lpaivao/EXA869-PBL2
